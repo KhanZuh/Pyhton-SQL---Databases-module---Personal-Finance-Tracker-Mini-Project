@@ -1,4 +1,4 @@
-# Personal Finance Tracker
+# Personal Finance Tracker
 A Python-based terminal application for tracking personal expenses, built using Test-Driven Development principles and PostgreSQL database integration.
 
 ## 📋 Project Overview
@@ -13,7 +13,8 @@ This project reinforces these key concepts:
 - CRUD Operations: Complete Create, Read, Update, Delete functionality
 - Sequence Diagrams: Document application-database communication
 
-## ✨ Core Features
+## ✨ Core Features
+
 ### Database Schema
 Two-table design with one-to-many relationship:
 - `categories` table: id, name, budget_limit
